@@ -42,4 +42,5 @@ API document will be available at
 
 ## Integration test
 
+    pip install -r requirements.txt
     ./run_test.sh
