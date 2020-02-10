@@ -1,0 +1,6 @@
+fastapi==0.48.0
+uvicorn==0.11.2
+yoyo-database-migrations==0.1.0
+requests==2.22.0
+docker==4.2.0
+psycopg2-binary==2.8.4
